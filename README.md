@@ -1,1 +1,1 @@
-# gene_expression_thorax
+# This repository contains scripts for Atlantis nasalgene expression analysis
