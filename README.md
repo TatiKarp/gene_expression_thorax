@@ -1,2 +1,2 @@
 This repository contains scripts that were used in the paper:  
-Karp T, Faiz A, van Nijnatten J, et al Nasal epithelial gene expression identifies relevant asthma endotypes in the ATLANTIS study, Thorax,  doi: [10.1136/thorax-2023-221230]
+Karp T, Faiz A, van Nijnatten J, et al Nasal epithelial gene expression identifies relevant asthma endotypes in the ATLANTIS study, Thorax,  doi: 10.1136/thorax-2023-221230.
